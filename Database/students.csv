@@ -1,0 +1,4 @@
+st_id,Dep,Year,sem,roll,name,gender,dob,email,phone,address,Photosample
+1,"Information Technology","Fourth Year",Semester-8,1705135,"Subodh Kumar Ray",Male,07/10/2000,subodhray5221@gmail.com,9402016691,Kohima,Yes
+2,"Agricultural Engineering","Second Year",Semester-2,1705133,Pandey,Male,10/05/2000,pandey@gmail.com,7894561235,Semalpur,No
+3,"Information Technology","Fourth Year",Semester-8,1705136,"Nadim Akhtar Ali",Male,14/09/1997,nadim34@gmail.com,7894561235,Assam,No
